@@ -1,0 +1,7 @@
+0,56,1,3,False,True,True,True,False,False,True,True,False,False
+256,57,1,3,False,True,True,True,False,False,True,True,False,False
+440,55,1,3,False,True,True,True,False,False,True,True,False,False
+602,57,1,3,False,True,True,True,False,False,True,True,False,False
+779,55,1,3,False,True,True,True,False,False,True,True,False,False
+955,56,1,3,False,True,True,True,False,False,True,True,False,False
+1235,57,1,3,False,True,True,True,False,False,True,True,False,False
