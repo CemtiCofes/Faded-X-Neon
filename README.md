@@ -4,6 +4,8 @@ Faded but using Neon themes and objects. Some Faded objects are still used in th
 
 The level files work best on Rolling Sky PC.
 
+![VideoCapture_20220615-213948](https://user-images.githubusercontent.com/105146816/173853700-265119ab-34ef-47e9-b44b-7f32a6e958d6.jpg)
+
 To play the level, I recommend using Rolling Sky Unlocked:
 https://drive.google.com/drive/folders/1TOVFp5pwICQG5swru3-kKigRyowmn5fq
   - To Install Rolling Sky Unlocked for PC, simply download the Assembly-CSharp.dll from the Drive folder and put it on Rolling Sky_Data/Managed
